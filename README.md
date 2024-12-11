@@ -23,3 +23,18 @@ A web-based Library Management System designed using CodeIgniter 3 and MySQL, fe
 - Database: MySQL
 
 This project demonstrates my ability to create a fully functional web application with differentiated access for regular users and administrators. It focuses on efficient management of library resources, user interactions, and transactions.
+
+# Preview
+![image](https://github.com/user-attachments/assets/9ec9f20e-9304-4f33-b634-f8dae788f675)
+
+![image](https://github.com/user-attachments/assets/9b92c88d-8776-459a-87fc-a43f59b85574)
+
+![image](https://github.com/user-attachments/assets/243edac0-9657-438f-960e-a50f73a5ca30)
+
+![image](https://github.com/user-attachments/assets/27b0ed4a-8497-41d1-a941-9187f32bfa59)
+
+![image](https://github.com/user-attachments/assets/afb44285-99c5-4ac3-9c56-09db40313044)
+
+![image](https://github.com/user-attachments/assets/f299a65f-905a-4b64-847c-053ce1d85c97)
+
+
